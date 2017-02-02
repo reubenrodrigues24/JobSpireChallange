@@ -1,0 +1,8 @@
+<?php
+/*
+function challange($name)
+{
+	return $name . ' ' . rand(5,15);
+}
+*/
+?>
